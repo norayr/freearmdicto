@@ -1,9 +1,10 @@
 free armdicto
 =============
 
-files produced with [armdicto-hack](https://github.com/norayr/armdicto-hack) project. see some info [here](http://norayr.arnet.am/weblog/2014/09/09/) about it.
+files produced with [armdicto-hack](https://github.com/norayr/armdicto-hack) project. see some info [here](http://norayr.arnet.am/weblog/2014/09/09/ասք-հաքերութեան-մասին/) about it.
 
-==using==
+using
+======
 
 in order to use produced dictionary with stardict issue
 
